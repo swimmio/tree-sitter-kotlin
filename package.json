@@ -1,5 +1,5 @@
 {
-  "name": "tree-sitter-kotlin",
+  "name": "@swimm/tree-sitter-kotlin",
   "version": "0.3.2",
   "description": "Tree-Sitter grammar for Kotlin",
   "main": "bindings/node",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fwcd/tree-sitter-kotlin.git"
+    "url": "git+https://github.com/swimmio/tree-sitter-kotlin.git"
   },
   "keywords": [
     "tree-sitter",
